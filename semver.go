@@ -4,7 +4,7 @@
 
 // Package semver helps create semantic Version numbers according to the
 // semver specification
-package semver
+package version
 
 import (
 	"bytes"
